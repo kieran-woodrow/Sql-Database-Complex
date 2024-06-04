@@ -1,3 +1,4 @@
 # How to run
-Have mysql installed
-Run Driver.java file
+- Download all files
+- Have mysql installed
+- Run Driver.java file
